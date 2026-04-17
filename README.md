@@ -1,4 +1,4 @@
-# osint-a
+# osint-aco
 # This is an information gathering tool (OSINT) designed by a Palestinian from Gaza. Its primary purpose is to obtain information about domains, usernames, and phone numbers using publicly available online sources. It also utilizes Google Dorks for specialized researchers. Furthermore, it employs proxy servers to completely anonymize your requests and a WhoIS API to gather more information about a specific domain.
 
 <img width="498" height="515" alt="image" src="https://github.com/user-attachments/assets/83c21bfc-edae-4f3a-bc99-8730d6bed90e" />
